@@ -1,0 +1,14 @@
+*.*#
+*.*~
+*.aux
+*.glo
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.zip
+base/*/*.pdf
+build/
+install-new-tlg-versions.sh
+replace-string.sh
+required/*/*.pdf
